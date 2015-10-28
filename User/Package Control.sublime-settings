@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Package Control",
+		"SideBarEnhancements",
+		"Terminal",
+		"Theme - Centurion",
+		"Trimmer"
+	]
+}
