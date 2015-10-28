@@ -9,6 +9,7 @@
 	[
 		"gdi"
 	],
+	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
@@ -17,7 +18,6 @@
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
-	"line_padding_top": 1,
 	"overlay_scroll_bars": "enabled",
 	"scroll_past_end": false,
 	"trim_trailing_white_space_on_save": true,
