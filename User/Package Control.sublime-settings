@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Material Theme",
 		"Package Control",
 		"Pretty JSON",
 		"Seti_UI",

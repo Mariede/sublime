@@ -1,8 +1,6 @@
 {
 	"auto_complete": true,
 	"bold_folder_labels": true,
-	"theme": "Seti.sublime-theme",
-	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
 	"copy_with_empty_selection": false,
 	"drag_text": false,
 	"enable_telemetry": false,
@@ -23,5 +21,10 @@
 	"overlay_scroll_bars": "enabled",
 	"scroll_past_end": false,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"material_theme_accent_lime": true,
+	"material_theme_accent_orange": false,
+	"material_theme_accent_purple": false
 }
