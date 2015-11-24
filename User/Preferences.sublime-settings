@@ -27,6 +27,7 @@
 	[
 		"Vintage"
 	],
+	"line_padding_top": 1,
 	"line_padding_bottom": 1,
 	"scroll_past_end": false,
 	"trim_trailing_white_space_on_save": true,
