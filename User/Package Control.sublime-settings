@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"EncodingHelper",
 		"Material Theme",
 		"Package Control",
 		"Pretty JSON",
