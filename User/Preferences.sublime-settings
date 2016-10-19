@@ -11,7 +11,7 @@
 	[
 		"gdi"
 	],
-	"font_size": 10,
+	"font_size": 9,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
@@ -24,13 +24,13 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"overlay_scroll_bars": "enabled",
-	"line_padding_top": 1,
 	"line_padding_bottom": 1,
-	"scroll_past_end": false,
-	"trim_trailing_white_space_on_save": true,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"line_padding_top": 1,
 	"material_theme_accent_lime": true,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": false,
 	"show_encoding": true,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
