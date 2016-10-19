@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"EncodingHelper",
+		"Handlebars",
 		"Material Theme",
 		"Package Control",
 		"Pretty JSON",
