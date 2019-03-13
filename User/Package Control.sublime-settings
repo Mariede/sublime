@@ -5,12 +5,17 @@
 	],
 	"installed_packages":
 	[
-		"EncodingHelper",
+		"CoffeeScriptHaml",
+		"ColorPicker",
+		"GitGutter",
 		"Handlebars",
+		"Jade",
 		"Material Theme",
 		"Package Control",
 		"Pretty JSON",
+		"Sass",
 		"SideBarEnhancements",
+		"SublimeGit",
 		"Terminal",
 		"Trimmer"
 	]
