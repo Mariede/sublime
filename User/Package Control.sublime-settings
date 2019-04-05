@@ -17,6 +17,9 @@
 		"SideBarEnhancements",
 		"SublimeGit",
 		"Terminal",
-		"Trimmer"
+		"Terminus",
+		"Trimmer",
+		"Vue Syntax Highlight",
+		"Vuetify"
 	]
 }
