@@ -5,21 +5,17 @@
 	],
 	"installed_packages":
 	[
-		"CoffeeScriptHaml",
-		"ColorPicker",
+		"Babel",
+		"Emmet",
 		"GitGutter",
 		"Handlebars",
-		"Jade",
 		"Material Theme",
 		"Package Control",
 		"Pretty JSON",
-		"Sass",
 		"SideBarEnhancements",
 		"SublimeGit",
 		"Terminal",
 		"Terminus",
-		"Trimmer",
-		"Vue Syntax Highlight",
-		"Vuetify"
+		"Trimmer"
 	]
 }
