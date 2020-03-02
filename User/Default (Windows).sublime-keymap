@@ -4,7 +4,7 @@
 
     // Open a terminal view at current file directory
     {
-        "keys": ["ctrl+alt+`"], "command": "terminus_open", "args": {
+        "keys": ["alt+shift+`"], "command": "terminus_open", "args": {
             "cwd": "${file_path:${folder}}"
         }
     },
@@ -23,6 +23,5 @@
     { "keys": ["alt+down"], "command": "next_bookmark" },
     { "keys": ["alt+up"], "command": "prev_bookmark" },
     { "keys": ["alt+left"], "command": "toggle_bookmark" },
-    { "keys": ["alt+right"], "command": "clear_bookmarks" },
-    { "keys": ["ctrl+alt+right"], "command": "select_all_bookmarks" }
+    { "keys": ["alt+right"], "command": "clear_bookmarks" }
 ]
