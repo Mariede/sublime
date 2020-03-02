@@ -4,7 +4,7 @@
 
     // Open a terminal view at current file directory
     {
-        "keys": ["ctrl+alt+t"], "command": "terminus_open", "args": {
+        "keys": ["ctrl+alt+`"], "command": "terminus_open", "args": {
             "cwd": "${file_path:${folder}}"
         }
     },
