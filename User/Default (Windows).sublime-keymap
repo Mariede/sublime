@@ -18,5 +18,11 @@
             { "operand": false, "operator": "equal", "match_all": true, "key": "auto_complete_visible" },
             { "match_all": true, "key": "is_abbreviation" }
         ]
-    }
+    },
+
+    { "keys": ["alt+down"], "command": "next_bookmark" },
+    { "keys": ["alt+up"], "command": "prev_bookmark" },
+    { "keys": ["alt+left"], "command": "toggle_bookmark" },
+    { "keys": ["alt+right"], "command": "clear_bookmarks" },
+    { "keys": ["ctrl+alt+right"], "command": "select_all_bookmarks" }
 ]
