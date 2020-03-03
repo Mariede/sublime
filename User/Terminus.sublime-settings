@@ -1,9 +1,30 @@
 {
 	"default_config":
 	{
-		"linux": null,    // login shell
-		"osx": null,      // login shell
+		"linux": null,
+		"osx": null,
 		"windows": "PowerShell"
 	},
-	"theme": "c64"
+	"theme": "user",
+	"user_theme_colors": {
+		"light_magenta": "#8b3f96",
+		"caret": "#7869c4",
+		"light_white": "#afb7c7",
+		"magenta": "#8b3f96",
+		"foreground": "#afb7c7",
+		"light_black": "#ffc767",
+		"background": "#151718",
+		"green": "#151718",
+		"white": "#f75733",
+		"light_red": "#ff0000",
+		"light_cyan": "#67b6bd",
+		"light_brown": "#afb7c7",
+		"black": "#ffc767",
+		"red": "#ff0000",
+		"light_blue": "#151718",
+		"blue": "#151718",
+		"brown": "#151718",
+		"cyan": "#67b6bd",
+		"light_green": "#7fff00"
+	}
 }
