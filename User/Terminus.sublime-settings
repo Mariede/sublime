@@ -14,7 +14,7 @@
 		"foreground": "#afb7c7",
 		"light_black": "#efb747",
 		"background": "#151718",
-		"green": "#151718",
+		"green": "#6fdfef",
 		"white": "#f78747",
 		"light_red": "#f70707",
 		"light_cyan": "#6fdfef",
@@ -23,7 +23,7 @@
 		"red": "#f70707",
 		"light_blue": "#efb747",
 		"blue": "#151718",
-		"brown": "#151718",
+		"brown": "#f78747",
 		"cyan": "#6fdfef",
 		"light_green": "#a7e727"
 	}
