@@ -1,14 +1,14 @@
 {
 	"color_scheme": "Packages/Colorsublime-Themes/Seti_monokai.tmTheme",
-
+	"extensions":
+	[
+		"md",
+		"mdown"
+	],
+	"highlight_line": true,
+	"line_numbers": true,
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-
-	// Layout
 	"word_wrap": false,
-	"wrap_width": 120,
-
-	// Line
-	"line_numbers": true,
-	"highlight_line": true
+	"wrap_width": 120
 }

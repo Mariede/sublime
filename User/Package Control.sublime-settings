@@ -17,6 +17,8 @@
 		"Pretty JSON",
 		"SideBarEnhancements",
 		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
 		"Terminal",
 		"Terminus",
 		"Trimmer"
