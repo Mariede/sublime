@@ -30,6 +30,6 @@
 	{ "keys": ["alt+m"], "command": "markdown_preview_select", "args": { "target": "browser" } },
 
 	// Pretty json
-	{ "keys": [ "alt+j" ], "command": "pretty_json" },
-	{ "keys": [ "alt+shift+j" ], "command": "un_pretty_json" }
+	{ "keys": ["alt+j"], "command": "pretty_json" },
+	{ "keys": ["alt+shift+j"], "command": "un_pretty_json" }
 ]
