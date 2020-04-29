@@ -1,14 +1,12 @@
 {
 	"color_scheme": "Packages/Colorsublime-Themes/Seti_monokai.tmTheme",
-	"extensions":
-	[
-		"md",
-		"mdown"
-	],
+
+	"draw_centered": false,
 	"highlight_line": true,
 	"line_numbers": true,
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false,
-	"wrap_width": 120
+
+	"caret_style": "solid"
 }

@@ -20,8 +20,16 @@
 		]
 	},
 
+	// Bookmarks
 	{ "keys": ["alt+down"], "command": "next_bookmark" },
 	{ "keys": ["alt+up"], "command": "prev_bookmark" },
 	{ "keys": ["alt+left"], "command": "toggle_bookmark" },
-	{ "keys": ["alt+right"], "command": "clear_bookmarks" }
+	{ "keys": ["alt+right"], "command": "clear_bookmarks" },
+
+	// Markdown preview
+	{ "keys": ["alt+m"], "command": "markdown_preview_select", "args": { "target": "browser" } },
+
+	// Pretty json
+	{ "keys": [ "alt+j" ], "command": "pretty_json" },
+	{ "keys": [ "alt+shift+j" ], "command": "un_pretty_json" }
 ]
