@@ -31,5 +31,9 @@
 
 	// Pretty json
 	{ "keys": ["alt+j"], "command": "pretty_json" },
-	{ "keys": ["alt+shift+j"], "command": "un_pretty_json" }
+	{ "keys": ["alt+shift+j"], "command": "un_pretty_json" },
+
+	// Linter
+	{ "keys": ["alt+l"], "command": "sublime_linter_toggle_highlights" },
+	{ "keys": ["alt+shift+l"], "command": "sublime_linter_lint" }
 ]
