@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
 try {
-
+	${1}
 } catch (err) {
 	reject(err);
 }
 ]]></content>
 	<tabTrigger>try</tabTrigger>
 	<scope>source.js</scope>
-	<description>Try Catch</description>
+	<description>try catch</description>
 </snippet>
