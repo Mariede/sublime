@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+const [${1}thisState, setThisState] = useState(false);
+]]></content>
+	<tabTrigger>useState</tabTrigger>
+	<scope>source.js</scope>
+	<description>React Hook</description>
+</snippet>

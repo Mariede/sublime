@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+useCallback(() => {
+	${1}
+}, []);
+]]></content>
+	<tabTrigger>useCallback</tabTrigger>
+	<scope>source.js</scope>
+	<description>React Hook</description>
+</snippet>

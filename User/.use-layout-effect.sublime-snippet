@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+useLayoutEffect(() => {
+	${1}
+
+	return () => {
+
+	};
+}, []);
+]]></content>
+	<tabTrigger>useLayoutEffect</tabTrigger>
+	<scope>source.js</scope>
+	<description>React Hook</description>
+</snippet>

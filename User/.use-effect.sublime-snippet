@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+useEffect(() => {
+	${1}
+
+	return () => {
+
+	};
+}, []);
+]]></content>
+	<tabTrigger>useEffect</tabTrigger>
+	<scope>source.js</scope>
+	<description>React Hook</description>
+</snippet>

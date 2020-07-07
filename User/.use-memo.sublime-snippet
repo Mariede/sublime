@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+useMemo(() => {
+	${1}
+});
+]]></content>
+	<tabTrigger>useMemo</tabTrigger>
+	<scope>source.js</scope>
+	<description>React Hook</description>
+</snippet>
