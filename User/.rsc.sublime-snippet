@@ -2,11 +2,14 @@
 	<content><![CDATA[
 import React from 'react';
 
-const ${1:ReactComponent} = () => (
-	<div id="reactComponent">
-		<p>Componente</p>
-	</div>
-);
+const ${1:ReactComponent} = () => {
+
+	return (
+		<div id="react-component">
+			<p>Componente</p>
+		</div>
+	);
+};
 
 export default ReactComponent;
 

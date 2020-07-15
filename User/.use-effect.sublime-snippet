@@ -1,12 +1,15 @@
 <snippet>
 	<content><![CDATA[
-useEffect(() => {
-	${1}
+useEffect(
+	() => {
+		${1}
 
-	return () => {
+		return () => {
 
-	};
-}, []);
+		};
+	},
+	[]
+);
 ]]></content>
 	<tabTrigger>useEffect</tabTrigger>
 	<scope>source.js</scope>
