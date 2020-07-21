@@ -5,6 +5,7 @@
 		"osx": null,
 		"windows": "PowerShell"
 	},
+	"min_columns": 100,
 	"theme": "user",
 	"user_theme_colors": {
 		"light_magenta": "#af87ff",
