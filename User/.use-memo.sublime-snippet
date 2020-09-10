@@ -3,7 +3,8 @@
 useMemo(
 	() => {
 		${1}
-	}
+	},
+	[]
 );
 ]]></content>
 	<tabTrigger>useMemo</tabTrigger>
