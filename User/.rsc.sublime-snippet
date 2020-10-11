@@ -2,7 +2,8 @@
 	<content><![CDATA[
 import React from 'react';
 
-const ${1:ReactComponent} = () => {
+const ${1:ReactComponent} = props => {
+	const {  } = props;
 
 	return (
 		<div id="react-component">
