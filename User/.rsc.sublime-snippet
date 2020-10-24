@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-import React from 'react';
+import { Fragment, useState, useEffect } from 'react';
 
 const ${1:ReactComponent} = props => {
 	const {  } = props;
