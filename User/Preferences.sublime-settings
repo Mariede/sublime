@@ -4,6 +4,7 @@
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Colorsublime-Themes/Seti_monokai.tmTheme",
 	"copy_with_empty_selection": false,
+	"default_line_ending": "windows",
 	"drag_text": false,
 	"enable_telemetry": false,
 	"fade_fold_buttons": false,
