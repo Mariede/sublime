@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="theme-color" content="#000000" />
+
+		<title>${1}</title>
+
+	</head>
+	<body>
+		<noscript>É preciso habilitar o JavaScript para rodar esta aplicação</noscript>
+
+		${2}
+	</body>
+</html>
+
+]]></content>
+	<tabTrigger>mhp</tabTrigger>
+	<scope>text.html(.basic)</scope>
+	<description>My HTML Start Page</description>
+</snippet>
