@@ -1,0 +1,12 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+	"variables":
+	{
+		"sidebar_bg": "#151718",
+		"ui_bg": "#0d1011"
+	},
+	"rules":
+	[
+
+	]
+}
